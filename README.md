@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Flutter Developer at [100ms](https://100ms.live)
+- <img alt="Coding" width="15" src="https://raw.githubusercontent.com/govindmaheshwari2/govindmaheshwari2/main/flutter.svg"> Flutter Developer at [100ms](https://100ms.live)
 - 💬 Ask me about anything [here](https://www.twitter.com/govindmh14)
-- Learn with me at [Youtube](https://www.youtube.com/PathwayYT?sub_confirmation=1)
+- <img alt="Coding" align="center" height="20" src="https://raw.githubusercontent.com/govindmaheshwari2/govindmaheshwari2/main/youtube.svg"> Learn with me at [Youtube](https://www.youtube.com/PathwayYT?sub_confirmation=1)
 
 [![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=govindmaheshwari2&show_icons=true&theme=radical)](https://github.com/govindmaheshwari2)
 
