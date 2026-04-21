@@ -182,16 +182,6 @@ real-time video sdk used by thousands of apps. shipped picture-in-picture, virtu
 
 </div>
 
----
-
-### 🎓 &nbsp; background
-
-<sub>B.Tech + M.Tech (dual), Computer Science · **Jaypee Institute of Information Technology, Noida** · CGPA 7.6, Distinction · May 2022</sub>
-<sub>Senior School · **Emerald Heights International, Indore** · 86.4%, Distinction · 2017</sub>
-<sub>Head Coordinator, Game Dev Hub · JIIT</sub>
-
----
-
 ### 🪐 &nbsp; elsewhere
 
 <div align="center">
