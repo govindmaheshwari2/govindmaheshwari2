@@ -172,9 +172,25 @@ real-time video sdk used by thousands of apps. shipped picture-in-picture, virtu
 
 <br>
 
+<sub>personal · <code>@govindmaheshwari2</code></sub>
+
 <img src="https://raw.githubusercontent.com/govindmaheshwari2/govindmaheshwari2/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
+<sub>office · <code>@govind-maheshwari2</code></sub>
+
+<img src="https://raw.githubusercontent.com/govindmaheshwari2/govindmaheshwari2/output/office-snake-dark.svg" width="100%" />
+
 </div>
+
+---
+
+### 🎓 &nbsp; background
+
+<sub>B.Tech + M.Tech (dual), Computer Science · **Jaypee Institute of Information Technology, Noida** · CGPA 7.6, Distinction · May 2022</sub>
+<sub>Senior School · **Emerald Heights International, Indore** · 86.4%, Distinction · 2017</sub>
+<sub>Head Coordinator, Game Dev Hub · JIIT</sub>
+
+---
 
 ### 🪐 &nbsp; elsewhere
 
