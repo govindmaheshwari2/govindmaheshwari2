@@ -134,7 +134,7 @@ declarative yaml test runner for web, android, ios. the `ai:` step hands claude 
 <tr>
 <td width="50%" valign="top">
 
-#### `ok2 health` <sub>·founding engineer · feb 2023 → present</sub>
+#### [`ok2 health (Chess.ing)`](https://chess.ing) <sub>·founding engineer · feb 2023 → present</sub>
 ai-powered learning games for chess, sudoku, and yoga. built the trainer portal and puzzle playground, elo-matched curriculum, an agentic gemini coach, and real-time tournaments for up to 30 concurrent players. go + python apis shaved 97% off turnaround.
 
 <sub>`flutter` `go` `python` `gemini` `websockets`</sub>
@@ -142,7 +142,7 @@ ai-powered learning games for chess, sudoku, and yoga. built the trainer portal 
 </td>
 <td width="50%" valign="top">
 
-#### `100ms` <sub>·sde e3 · dec 2021 – feb 2023</sub>
+#### [`100ms`](https://pub.dev/packages/hmssdk_flutter) <sub>·sde e3 · dec 2021 – feb 2023</sub>
 real-time video sdk used by thousands of apps. shipped picture-in-picture, virtual background, chat & metadata in the flutter sdk. built the native hls video player (ios + android), now used by 1000+ developers.
 
 <sub>`flutter` `ios` `android` `webrtc` `hls`</sub>
@@ -160,19 +160,17 @@ real-time video sdk used by thousands of apps. shipped picture-in-picture, virtu
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=govindmaheshwari2&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f23&title_color=f75c7e&icon_color=f75c7e&text_color=e4e4e7&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindmaheshwari2&layout=compact&theme=radical&hide_border=true&bg_color=0f0f23&title_color=f75c7e&text_color=e4e4e7&hide=html,css,scss,cmake&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govind-maheshwari2&layout=compact&theme=radical&hide_border=true&bg_color=0f0f23&title_color=f75c7e&text_color=e4e4e7&hide=html,css,scss,cmake&langs_count=8" height="180" />
 
 <br>
-
-<img src="https://streak-stats.demolab.com?user=govindmaheshwari2&theme=radical&hide_border=true&background=0f0f23&stroke=f75c7e&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" height="180" />
+<sub>office · <code>@govind-maheshwari2</code></sub><br>
+<img src="https://streak-stats.demolab.com?user=govind-maheshwari2&theme=radical&hide_border=true&background=0f0f23&stroke=f75c7e&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" height="180" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=govindmaheshwari2&theme=react-dark&bg_color=0f0f23&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true&custom_title=commit%20rhythm%20·%20last%2031%20days" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=govind-maheshwari2&theme=react-dark&bg_color=0f0f23&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true&custom_title=commit%20rhythm%20·%20last%2031%20days" width="100%" />
 
 <br>
-
-<sub>office · <code>@govind-maheshwari2</code></sub>
 
 <img src="https://raw.githubusercontent.com/govindmaheshwari2/govindmaheshwari2/output/office-snake-dark.svg" width="100%" />
 
