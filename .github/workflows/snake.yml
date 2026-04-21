@@ -14,13 +14,21 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Generate personal snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: govindmaheshwari2
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate office snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: govind-maheshwari2
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/office-snake.svg
+            dist/office-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
