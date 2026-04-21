@@ -172,10 +172,6 @@ real-time video sdk used by thousands of apps. shipped picture-in-picture, virtu
 
 <br>
 
-<sub>personal · <code>@govindmaheshwari2</code></sub>
-
-<img src="https://raw.githubusercontent.com/govindmaheshwari2/govindmaheshwari2/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 <sub>office · <code>@govind-maheshwari2</code></sub>
 
 <img src="https://raw.githubusercontent.com/govindmaheshwari2/govindmaheshwari2/output/office-snake-dark.svg" width="100%" />
